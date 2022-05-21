@@ -8,7 +8,7 @@ module.exports = {
         'primary': '#0D28A6',
         'secondary': '#F1F3FF',
         'green': '#5CB85F',
-      }
+      },
     },
   },
   plugins: []

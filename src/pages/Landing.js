@@ -1,13 +1,13 @@
 import React from 'react';
 
-import Navbar from '../components/Navbar';
-import Banner from '../components/Banner';
-import Service from '../components/Service';
-import Reason from '../components/Reason';
-import Percentage from '../components/Percentage';
-import Testimonial from '../components/Testimonial';
-import RentCard from '../components/RentCard';
-import Faq from '../components/Faq';
+import Navbar from '../components/landing/Navbar';
+import Banner from '../components/landing/Banner';
+import Service from '../components/landing/Service';
+import Reason from '../components/landing/Reason';
+import Percentage from '../components/landing/Percentage';
+import Testimonial from '../components/landing/Testimonial';
+import RentCard from '../components/landing/RentCard';
+import Faq from '../components/landing/Faq';
 import Footer from '../components/Footer';
 
 const Landing = () => {
